@@ -81,7 +81,7 @@ body{
 
 .busquedas .campo{
     font-size: 18px;
-    border: solid 1px rgb(250, 116, 54);;
+    border: solid 1px rgb(250, 116, 54);
     border-radius: 10px;
     padding: 5px;
 }
@@ -125,7 +125,7 @@ body{
     padding: 5px;
 }
 
-.listaResultados ul li.claro{
+.listaResultados .contenedor ul li.claro{
     width: 300px;
     height: 20px;
     background-color: #f3f3f3;
