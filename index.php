@@ -85,7 +85,24 @@ include "conexion.php";
 
     <div class="contenedorRegistro" id="registro"> 
         <button type="button"><i class="fas fa-caret-square-left"></i></button>
-        <div class="registro"></div>
+        <div class="registro">
+            <div class="cerrar"><i class="fas fa-window-close"></i></div>
+            <div class="titulo">José Granizo</div>
+            
+            <div class="iconos"></div>
+            <div class="datos">jose@aol.com</div>
+            <div class="foto"></div>
+
+            <div class="iconos"></div>
+            <div class="datos">Google</div>
+
+            <div class="iconos"></div>
+            <div class="datos">1234567890</div>
+
+            <div class="iconos"></div>
+            <div class="datos">Gerente de desarrollo de Google Maps</div>
+
+        </div>
         <button type="button"><i class="fas fa-caret-square-right"></i></button>
     </div>
 
