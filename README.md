@@ -1,3 +1,13 @@
 # ejercicio-directorio
 
-El objetivo de este ejercicio es aprender a interactuar con una base de datos a través de páginas en PHP.  Se usará una base de datos MySQL. Se aprenderá a conectar las páginas PHP a la base de datos para realizar búsquedas de registros, ingreso de nuevos registros, actualización de registros y eliminación de registros
+Esta rama contiene:
+<ol>
+  <li>Archivo de conexión a la base de datos</li>
+  <br>
+  <li>Generación de botones para búsqueda de registros por letra de inicio</li>
+  <br>
+  <li>Campo para búsquedas de un registro en particular o para desplegar todos los registros de la base de datos</li>
+  <br>
+  <li>Despligue de los registros encontrados en la forma apellido, nombre. Cada registro tiene un fondo que se alterna entre claro y oscuro para una mejor legibilidad de los mismos</li>
+  <br>
+  <li>Diseño del tarjetón que muestra la información de un registro en particular usando grid</li>
