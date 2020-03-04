@@ -1,3 +1,3 @@
 # ejercicio-directorio
 
-El objetivo de este ejercicio es aprender a interactuar con una base de datos a través de páginas en PHP.  Se usará una base de datos MySQL. Se aprenderá a conectar las páginas PHP a la base de datos para realizar búsquedas de registros, ingreso de nuevos registros, actualización de registros y eliminación de registros
+En esta versión del ejercicio del directorio ya se puede crear registros, editar registros ingresados, borrar registros de la base de datos y hacer todas las búsquedas en el directorio:  se puede buscar por letra de inicio de apellido, por apellido, o encontrar todos los registros de la base de datos
